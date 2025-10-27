@@ -1,20 +1,22 @@
-# Hi there, I'm Bhawna 👋  
+# Hi, I'm Bhawna 👋
 
-I'm a passionate **.NET Developer** learning to build full-stack applications using C#, SQL, and Power BI.
+I'm an aspiring **.NET Developer** passionate about building analytical and data-driven apps.
+I’ve completed **SQL** and **C#**, know the basics of **Power BI**, and I'm now learning 
+**.NET Core, ASP.NET Core, and Azure**.
 
----
+### 🔧 Skills
+- C#, SQL  
+- Power BI dashboards & slicers  
+- Visual Studio, Git & GitHub  
 
-### 🚀 Skills
-- 💻 C#, ASP.NET, SQL  
-- 📊 Power BI, MySQL  
-- 🧰 Git, GitHub, VS Code, Visual Studio  
+### 💼 Projects
+- **Library Management System (SQL)** – Queries & dashboards for library data  
+- **OTP Generator (C#)** – Creates random verification codes  
+- **Dice Roller (C#)** – Simulates dice rolls using `Random`  
 
----
+### 🎯 Next Goals
+- Build web apps using ASP.NET Core  
+- Learn cloud deployment on Azure  
 
-### 🏗️ Projects
-- **Library Management System** – SQL + Power BI dashboard  
+📫 **Connect:** bhawnaa.066@gmail.com 
 
----
-
-### 📫 Connect with me
-- 📧 bhawnaa.066@gmail.com
