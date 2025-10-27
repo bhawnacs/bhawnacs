@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Bhawna 👋  
 
-<!--
-**bhawnacs/bhawnacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **.NET Developer** learning to build full-stack applications using C#, SQL, and Power BI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- 💻 C#, ASP.NET, SQL  
+- 📊 Power BI, MySQL  
+- 🧰 Git, GitHub, VS Code, Visual Studio  
+
+---
+
+### 🏗️ Projects
+- **Library Management System** – SQL + Power BI dashboard  
+
+---
+
+### 📫 Connect with me
+- 📧 bhawnaa.066@gmail.com
