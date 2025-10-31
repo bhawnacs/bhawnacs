@@ -4,7 +4,7 @@ I'm an aspiring **.NET Developer** passionate about building analytical and data
 I’ve completed **SQL** and **C#**, know the basics of **Power BI**, and I'm now learning 
 **.NET Core, ASP.NET Core, and Azure**.
 
-### 🔧 Skills
+### Skills
 - C#, SQL  
 - Power BI dashboards & slicers  
 - Visual Studio, Git & GitHub  
